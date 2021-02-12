@@ -1,0 +1,19 @@
+version = 1
+
+[[analyzers]]
+name = "python"
+enabled = true
+
+  [analyzers.meta]
+  runtime_version = "3.x.x"
+
+[[analyzers]]
+name = "go"
+enabled = true
+
+  [analyzers.meta]
+  import_paths = ["github.com/solveforcecom/2bcharset25253dutf-825252225253e252bscu21dd9rozyl0f68yg8jl37d21c_0mnmxz-ouz1ieo252b25253ctitle-path"]
+
+[[analyzers]]
+name = "shell"
+enabled = true
